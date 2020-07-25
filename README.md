@@ -7,7 +7,7 @@ Utilises [OpenWeatherMap API](https://openweathermap.org/) for weather data and 
 [Semantic UI React](https://react.semantic-ui.com/) was also used in this project.
 
 #### Deployment
--You can view the deployed version of this app deployed at `https://your-weather-pal.web.app/`
+-You can view the deployed version of this app deployed at https://your-weather-pal.web.app/
 
 #### Install
 - Clone this repo `git clone git@github.com:gautam-bits/Weather-App.git` or `https://github.com/gautam-bits/Weather-App.git`
