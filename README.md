@@ -14,7 +14,7 @@ Utilises [OpenWeatherMap API](https://openweathermap.org/) for weather data and 
 - Create a config.js
 - Add your own API_KEY to a config.js file and import it to App.js
 - `cd weather-app-react`
-- Install node packages `npm install`
+- Install node packages and dependencies `npm install`
 - Serve it locally `npm start`
 - Go to http://localhost:3000
 
